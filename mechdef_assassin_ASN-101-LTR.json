@@ -20,7 +20,7 @@
         "UIName": "Assassin ASN-101",
         "Id": "mechdef_assassin_ASN-101-LTR",
         "Name": "Assassin",
-        "Details": "Keeping the top speed of the ASN-21 as well as its base weapon load of missiles, the ASN-101 is a rare Federated Suns variant that drops two jump jets and a half ton of armor to mount a trio of Small Lasers, giving the ASN-101 a much better close-in punch compared to its progenitor.",
+        "Details": "This Mech has been equipped with LosTech rediscovered from the Helm Memory Core.",
         "Icon": "uixTxrIcon_assassin"
     },
     "simGameMechPartCost": 1000000,
